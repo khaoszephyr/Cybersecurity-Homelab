@@ -38,8 +38,8 @@ The lab is designed to support hands-on pratice with:
 ### Hardware
 
 ## Repository Structure 
-- /diagrams — Network topology + architecture diagrams
-- /build-logs — Step-by-step build notes, issues, fixes
-- /configs — Sanitized configs (no secrets)
-- /labs — Security exercises, tests, and write-ups
-- /assets — Screenshots used in documentation
+/diagrams — Network topology + architecture diagrams
+/build-logs — Step-by-step build notes, issues, fixes
+/configs — Sanitized configs (no secrets)
+/labs — Security exercises, tests, and write-ups
+/assets — Screenshots used in documentation
